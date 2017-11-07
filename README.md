@@ -5,7 +5,7 @@ The **DFRobot Dual DigitalPot（100K）** employs MCP42100 with two individual 1
 For more info, please visit: [DFRobot WIKI](https://www.dfrobot.com/wiki/index.php/Dual_Digital_Pot_(100K)_SKU:_DFR0520)
 
 
-[Pic](https://github.com/DFRobot/DFRobot_DigitalPot-100K-/tree/master/Pics/Dual Digital Pot (100K).png)
+[SVG1](https://github.com/DFRobot/DFRobot_DigitalPot-100K-/tree/master/Pics/Dual Digital Pot (100K).png)
 
 ## Credits
 
