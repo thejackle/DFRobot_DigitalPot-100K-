@@ -9,7 +9,7 @@ For more info, please visit: [DFRobot WIKI](https://www.dfrobot.com/wiki/index.p
 
 ## Credits
 
-Written by DFRobot_Hnery, 2017. (Welcome to our [DFRobot Homepage](https://www.dfrobot.com/))
+Written by DFRobot_Hnery, 2017. (Welcome to [DFRobot Homepage](https://www.dfrobot.com/))
 
 ## History
 
