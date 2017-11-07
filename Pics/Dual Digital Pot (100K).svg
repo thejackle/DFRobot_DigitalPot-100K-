@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="283.465px" height="255.117px" viewBox="0 0 283.465 255.117" enable-background="new 0 0 283.465 255.117"
+	 xml:space="preserve">
+<g id="图层_3">
+</g>
+<g id="图层_1">
+	<g>
+		<path id="rect3766_2_" fill="#040000" d="M27.422,0h228.623c15.143,0,27.42,15.133,27.42,33.803v187.516
+			c0,18.67-12.277,33.799-27.42,33.799H27.422C12.277,255.117,0,239.988,0,221.318V33.803C0,15.133,12.277,0,27.422,0z"/>
+		<text transform="matrix(1 0 0 1 37.1626 72.4209)" fill="#FFFFFF" font-family="'ArialMT'" font-size="13">VCC</text>
+		<text transform="matrix(1 0 0 1 72.5791 72.4209)" fill="#FFFFFF" font-family="'ArialMT'" font-size="13">GND</text>
+		<text transform="matrix(1 0 0 1 117.7393 72.4209)" fill="#FFFFFF" font-family="'ArialMT'" font-size="13">SI</text>
+		<text transform="matrix(1 0 0 1 150.5605 72.4209)" fill="#FFFFFF" font-family="'ArialMT'" font-size="13">CS</text>
+		<text transform="matrix(1 0 0 1 182.4775 72.4209)" fill="#FFFFFF" font-family="'ArialMT'" font-size="13">SCK</text>
+		<text transform="matrix(1 0 0 1 221.3525 72.4209)" fill="#FFFFFF" font-family="'ArialMT'" font-size="13">SO</text>
+		<text transform="matrix(1 0 0 1 38.5444 198.4209)" fill="#FFFFFF" font-family="'ArialMT'" font-size="13">PA0</text>
+		<text transform="matrix(1 0 0 1 72.248 198.4209)" fill="#FFFFFF" font-family="'ArialMT'" font-size="13">PW0</text>
+		<text transform="matrix(1 0 0 1 111.9253 198.4209)" fill="#FFFFFF" font-family="'ArialMT'" font-size="13">PB0</text>
+		<text transform="matrix(1 0 0 1 147.7275 198.4209)" fill="#FFFFFF" font-family="'ArialMT'" font-size="13">PA1</text>
+		<text transform="matrix(1 0 0 1 180.0645 198.4209)" fill="#FFFFFF" font-family="'ArialMT'" font-size="13">PW1</text>
+		<text transform="matrix(1 0 0 1 219.1055 198.4209)" fill="#FFFFFF" font-family="'ArialMT'" font-size="13">PB1</text>
+		<g>
+			<ellipse fill="#FFFFFF" cx="200.963" cy="96.651" rx="3.714" ry="3.495"/>
+			<path id="path39061-5-8-4_1_" inkscape:connector-curvature="0" fill="#4E4D4D" d="M197.788,160.101l-127.991,0.311
+				l-0.069-58.202l127.99-0.309l0.025,19.278c-0.193,0-0.434-0.009-0.633,0.003c-5.23,0.281-9.07,4.34-8.813,9.113v0.184
+				c0.291,4.62,4.457,8.155,9.469,8.161L197.788,160.101L197.788,160.101z"/>
+			<g id="g39071-2-0-0_1_" transform="matrix(0,-1.1209725,-1.0193067,0,859.17763,804.29011)">
+				<polygon id="rect39073-6-7-7_1_" fill="#ECECEB" points="567.068,653.583 574.607,653.589 574.589,662.855 567.051,662.842 				
+					"/>
+				<polygon id="rect39075-4-3-3_1_" fill="#E6E6E5" points="559.413,653.662 566.952,653.668 566.931,662.664 559.392,662.65 				
+					"/>
+			</g>
+			<g id="g39077-0-4-6_1_" transform="matrix(0,-1.1209725,-1.0193067,0,854.62716,804.29011)">
+				<polygon id="rect39079-7-9-5_1_" fill="#ECECEB" points="567.033,666.929 574.572,666.943 574.55,676.2 567.012,676.194 				"/>
+				<polygon id="rect39081-0-6-04_1_" fill="#E6E6E5" points="559.374,667.008 566.913,667.021 566.895,676.012 559.356,676.004 
+									"/>
+			</g>
+			<g id="g39083-3-5-0_1_" transform="matrix(0,-1.1209725,-1.0193067,0,850.12218,804.29011)">
+				<polygon id="rect39085-4-1-6_1_" fill="#ECECEB" points="566.996,680.142 574.535,680.155 574.515,689.414 566.975,689.406 				
+					"/>
+				<polygon id="rect39087-0-0-5_1_" fill="#E6E6E5" points="559.339,680.22 566.877,680.234 566.859,689.224 559.32,689.217 				
+					"/>
+			</g>
+			<g id="g39334-0-9-6_1_" transform="matrix(0,-1.1209725,-1.0193067,0,845.5717,804.29011)">
+				<polygon id="rect39336-5-9-10_1_" fill="#ECECEB" points="566.959,693.489 574.497,693.501 574.48,702.76 566.94,702.753 				
+					"/>
+				<polygon id="rect39338-3-6-4_1_" fill="#E6E6E5" points="559.303,693.567 566.842,693.58 566.824,702.576 559.285,702.563 				
+					"/>
+			</g>
+			<g id="g39353-1-8-4_1_" transform="matrix(0,-1.1209725,-1.0193067,0,841.11223,804.29011)">
+				<polygon id="rect39355-0-3-2_1_" fill="#ECECEB" points="566.909,706.567 574.448,706.58 574.431,715.839 566.892,715.832 				
+					"/>
+				<polygon id="rect39357-6-4-7_1_" fill="#E6E6E5" points="559.254,706.646 566.794,706.659 566.771,715.657 559.234,715.643 				
+					"/>
+			</g>
+			<g id="g39422-0-9-4_1_" transform="matrix(0,1.1209725,-1.0193067,0,859.31415,547.17025)">
+				
+					<rect id="rect39424-4-2-4_1_" x="-404.982" y="653.719" transform="matrix(1 -0.0019 0.0019 1 -1.2196 -0.7416)" fill="#ECECEB" width="7.539" height="9.268"/>
+				<polygon id="rect39426-5-5-4_1_" fill="#E6E6E5" points="-412.65,653.826 -405.109,653.818 -405.09,662.809 -412.628,662.82 
+									"/>
+			</g>
+			<g id="g39428-4-5-8_1_" transform="matrix(0,1.1209725,-1.0193067,0,854.76367,547.17025)">
+				<polygon id="rect39430-9-3-0_1_" fill="#ECECEB" points="-404.956,667.069 -397.417,667.061 -397.396,676.322 -404.934,676.335 
+									"/>
+				<polygon id="rect39432-5-3-7_1_" fill="#E6E6E5" points="-412.61,667.172 -405.071,667.159 -405.054,676.157 -412.593,676.165 
+									"/>
+			</g>
+			<g id="g39434-6-3-27_1_" transform="matrix(0,1.1209725,-1.0193067,0,850.2587,547.17025)">
+				<polygon id="rect39436-4-7-8_1_" fill="#ECECEB" points="-404.919,680.281 -397.38,680.276 -397.359,689.534 -404.898,689.547 
+									"/>
+				<polygon id="rect39438-8-4-5_1_" fill="#E6E6E5" points="-412.575,680.387 -405.036,680.373 -405.018,689.37 -412.557,689.377 
+									"/>
+			</g>
+			<g id="g39440-2-3-6_1_" transform="matrix(0,1.1209725,-1.0193067,0,845.70821,547.17025)">
+				<polygon id="rect39442-1-8-3_1_" fill="#ECECEB" points="-404.881,693.635 -397.342,693.622 -397.324,702.887 -404.864,702.893 
+									"/>
+				<polygon id="rect39444-6-0-7_1_" fill="#E6E6E5" points="-412.539,693.733 -405,693.72 -404.982,702.716 -412.521,702.729 				
+					"/>
+			</g>
+			<g id="g39446-8-8-71_1_" transform="matrix(0,1.1209725,-1.0193067,0,841.24874,547.17025)">
+				<polygon id="rect39448-3-8-3_1_" fill="#ECECEB" points="-404.844,706.715 -397.305,706.701 -397.288,715.959 -404.827,715.973 
+									"/>
+				<polygon id="rect39450-1-0-8_1_" fill="#E6E6E5" points="-412.504,706.813 -404.965,706.8 -404.943,715.797 -412.482,715.809 
+									"/>
+			</g>
+			<g id="g39372-49-6-6_1_" transform="matrix(0,-1.1209725,-1.0193067,0,836.92578,804.29011)">
+				<polygon id="rect39374-2-8-0_1_" fill="#ECECEB" points="566.889,719.425 574.427,719.43 574.406,728.697 566.868,728.683 				
+					"/>
+				<polygon id="rect39376-0-1-3_1_" fill="#E6E6E5" points="559.23,719.496 566.769,719.51 566.752,728.506 559.212,728.494 				
+					"/>
+			</g>
+			<g id="g39452-7-9-1_1_" transform="matrix(0,1.1209725,-1.0193067,0,837.06229,547.17025)">
+				<polygon id="rect39454-0-8-9_1_" fill="#ECECEB" points="-404.811,719.572 -397.274,719.558 -397.255,728.823 -404.79,728.831 
+									"/>
+				<polygon id="rect39456-6-9-2_1_" fill="#E6E6E5" points="-412.468,719.67 -404.928,719.656 -404.911,728.653 -412.45,728.666 
+									"/>
+			</g>
+			<g id="g39372-4-7-7-0_1_" transform="matrix(0,-1.1209725,-1.0193067,0,832.44198,804.29011)">
+				<polygon id="rect39374-4-0-2-97_1_" fill="#ECECEB" points="566.853,733.135 574.392,733.148 574.371,742.406 566.832,742.394 
+									"/>
+				<polygon id="rect39376-4-5-2-9_1_" fill="#E6E6E5" points="559.193,733.214 566.732,733.226 566.715,742.217 559.176,742.21 
+									"/>
+			</g>
+			<g id="g39452-4-6-8-8_1_" transform="matrix(0,1.1209725,-1.0193067,0,832.57849,547.17025)">
+				<polygon id="rect39454-2-7-2-6_1_" fill="#ECECEB" points="-404.776,733.275 -397.237,733.268 -397.216,742.528 
+					-404.755,742.541 				"/>
+				<polygon id="rect39456-9-3-8-4_1_" fill="#E6E6E5" points="-412.431,733.379 -404.893,733.368 -404.874,742.364 
+					-412.413,742.37 				"/>
+			</g>
+		</g>
+		
+			<path id="connector1pad-0-1-1-48-6-9_26_" sodipodi:ry="1.584" sodipodi:cx="4.3200002" sodipodi:cy="11.52" sodipodi:rx="1.584" fill="#F5B91B" stroke="#FFFFFF" stroke-miterlimit="10" d="
+			M238.534,79.968c-3.839-0.004-6.956,3.17-6.962,7.094c-0.005,3.928,3.104,7.111,6.945,7.115c3.838,0.004,6.955-3.17,6.961-7.094
+			C245.481,83.16,242.375,79.974,238.534,79.968z"/>
+		
+			<path id="connector1pad-0-1-1-48-6-9_27_" sodipodi:ry="1.584" sodipodi:cx="4.3200002" sodipodi:cy="11.52" sodipodi:rx="1.584" fill="#F5B91B" stroke="#FFFFFF" stroke-miterlimit="10" d="
+			M40.811,165.968c-3.839-0.004-6.956,3.17-6.962,7.094c-0.005,3.928,3.104,7.111,6.945,7.115c3.838,0.004,6.955-3.17,6.961-7.094
+			C47.758,169.16,44.651,165.974,40.811,165.968z"/>
+		<g>
+			
+				<path id="connector1pad-0-1-1-48-6-9_18_" sodipodi:ry="1.584" sodipodi:cx="4.3200002" sodipodi:cy="11.52" sodipodi:rx="1.584" fill="#FFFFFF" stroke="#F5B91B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="
+				M123.271,48.606c4.527,0.006,8.205-3.738,8.211-8.369c0.007-4.633-3.66-8.387-8.191-8.393c-4.529-0.006-8.206,3.738-8.213,8.367
+				C115.074,44.84,118.739,48.6,123.271,48.606z"/>
+			
+				<path id="connector1pad-0-1-1-48-6-9_17_" sodipodi:ry="1.584" sodipodi:cx="4.3200002" sodipodi:cy="11.52" sodipodi:rx="1.584" fill="#FFFFFF" stroke="#F5B91B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="
+				M88.01,48.606c4.528,0.006,8.205-3.738,8.212-8.369c0.007-4.633-3.661-8.387-8.192-8.393c-4.528-0.006-8.205,3.738-8.212,8.367
+				C79.815,44.84,83.479,48.6,88.01,48.606z"/>
+			
+				<path id="connector1pad-0-1-1-48-6-9_16_" sodipodi:ry="1.584" sodipodi:cx="4.3200002" sodipodi:cy="11.52" sodipodi:rx="1.584" fill="#FFFFFF" stroke="#F5B91B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="
+				M52.01,48.606c4.528,0.006,8.205-3.738,8.212-8.369c0.007-4.633-3.661-8.387-8.192-8.393c-4.528-0.006-8.205,3.738-8.212,8.367
+				C43.815,44.84,47.479,48.6,52.01,48.606z"/>
+			
+				<path id="connector1pad-0-1-1-48-6-9_15_" sodipodi:ry="1.584" sodipodi:cx="4.3200002" sodipodi:cy="11.52" sodipodi:rx="1.584" fill="#FFFFFF" stroke="#F5B91B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="
+				M159.219,48.606c4.528,0.006,8.205-3.738,8.212-8.369c0.007-4.633-3.661-8.387-8.192-8.393c-4.528-0.006-8.205,3.738-8.212,8.367
+				C151.024,44.84,154.688,48.6,159.219,48.606z"/>
+			
+				<path id="connector1pad-0-1-1-48-6-9_19_" sodipodi:ry="1.584" sodipodi:cx="4.3200002" sodipodi:cy="11.52" sodipodi:rx="1.584" fill="#FFFFFF" stroke="#F5B91B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="
+				M195.553,48.606c4.528,0.006,8.205-3.738,8.212-8.369c0.007-4.633-3.661-8.387-8.192-8.393c-4.528-0.006-8.205,3.738-8.212,8.367
+				C187.358,44.84,191.022,48.6,195.553,48.606z"/>
+			<g>
+				<rect x="220.462" y="29.756" fill="#F5B91B" width="20.563" height="20.937"/>
+				
+					<path id="connector1pad-0-1-1-48-6-9_14_" sodipodi:ry="1.584" sodipodi:cx="4.3200002" sodipodi:cy="11.52" sodipodi:rx="1.584" fill="#FFFFFF" d="
+					M230.737,46.777c3.477,0.005,6.301-2.923,6.306-6.543c0.005-3.623-2.812-6.558-6.291-6.562
+					c-3.478-0.004-6.301,2.924-6.307,6.543C224.443,43.833,227.256,46.773,230.737,46.777z"/>
+			</g>
+			
+				<rect x="33.833" y="21.788" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="215.571" height="36"/>
+		</g>
+		<g>
+			
+				<path id="connector1pad-0-1-1-48-6-9_25_" sodipodi:ry="1.584" sodipodi:cx="4.3200002" sodipodi:cy="11.52" sodipodi:rx="1.584" fill="#FFFFFF" stroke="#F5B91B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="
+				M159.966,211.303c-4.527-0.006-8.205,3.738-8.211,8.369c-0.008,4.633,3.66,8.387,8.191,8.393
+				c4.529,0.006,8.205-3.738,8.213-8.367C168.162,215.069,164.498,211.309,159.966,211.303z"/>
+			
+				<path id="connector1pad-0-1-1-48-6-9_24_" sodipodi:ry="1.584" sodipodi:cx="4.3200002" sodipodi:cy="11.52" sodipodi:rx="1.584" fill="#FFFFFF" stroke="#F5B91B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="
+				M195.226,211.303c-4.529-0.006-8.205,3.738-8.213,8.369c-0.006,4.633,3.662,8.387,8.193,8.393
+				c4.527,0.006,8.205-3.738,8.211-8.367C203.421,215.069,199.757,211.309,195.226,211.303z"/>
+			
+				<path id="connector1pad-0-1-1-48-6-9_23_" sodipodi:ry="1.584" sodipodi:cx="4.3200002" sodipodi:cy="11.52" sodipodi:rx="1.584" fill="#FFFFFF" stroke="#F5B91B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="
+				M231.226,211.303c-4.529-0.006-8.205,3.738-8.213,8.369c-0.006,4.633,3.662,8.387,8.193,8.393
+				c4.527,0.006,8.205-3.738,8.211-8.367C239.421,215.069,235.757,211.309,231.226,211.303z"/>
+			
+				<path id="connector1pad-0-1-1-48-6-9_22_" sodipodi:ry="1.584" sodipodi:cx="4.3200002" sodipodi:cy="11.52" sodipodi:rx="1.584" fill="#FFFFFF" stroke="#F5B91B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="
+				M124.017,211.303c-4.528-0.006-8.205,3.738-8.212,8.369c-0.007,4.633,3.661,8.387,8.192,8.393
+				c4.528,0.006,8.205-3.738,8.212-8.367C132.212,215.069,128.548,211.309,124.017,211.303z"/>
+			
+				<path id="connector1pad-0-1-1-48-6-9_21_" sodipodi:ry="1.584" sodipodi:cx="4.3200002" sodipodi:cy="11.52" sodipodi:rx="1.584" fill="#FFFFFF" stroke="#F5B91B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="
+				M87.683,211.303c-4.528-0.006-8.205,3.738-8.212,8.369c-0.007,4.633,3.661,8.387,8.192,8.393
+				c4.528,0.006,8.205-3.738,8.212-8.367C95.878,215.069,92.214,211.309,87.683,211.303z"/>
+			<g>
+				<rect x="42.211" y="209.216" fill="#F5B91B" width="20.563" height="20.937"/>
+				
+					<path id="connector1pad-0-1-1-48-6-9_20_" sodipodi:ry="1.584" sodipodi:cx="4.3200002" sodipodi:cy="11.52" sodipodi:rx="1.584" fill="#FFFFFF" d="
+					M52.5,213.132c-3.477-0.005-6.301,2.923-6.306,6.543c-0.005,3.623,2.812,6.558,6.291,6.562c3.478,0.004,6.301-2.924,6.307-6.543
+					C58.794,216.076,55.98,213.136,52.5,213.132z"/>
+			</g>
+			
+				<rect x="33.833" y="202.122" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="215.571" height="36"/>
+		</g>
+		<g id="g53049-4-4_2_" transform="matrix(0,-2.6373877,2.9959066,0,-622.80019,2713.1506)">
+			
+				<rect id="rect7989-3-7-7-1-4_2_" x="963.829" y="286.171" transform="matrix(-2.547107e-006 -1 1 -2.547107e-006 679.4604 1253.4707)" fill="#CCCCCC" width="5.27" height="1.67"/>
+			
+				<rect id="rect7991-37-8-9-61-2_2_" x="969.081" y="283.334" transform="matrix(-2.547107e-006 -1 1 -2.547107e-006 684.5802 1258.5911)" fill="#724C2E" width="5.007" height="7.345"/>
+			
+				<rect id="rect7989-8-26-50-0-63-9_2_" x="973.88" y="286.171" transform="matrix(-2.547107e-006 -1 1 -2.547107e-006 689.5111 1263.5212)" fill="#CCCCCC" width="5.27" height="1.669"/>
+		</g>
+		<g id="g52951-91-0_2_" transform="matrix(0,-2.9217464,2.9217464,0,-659.21273,1707.0148)">
+			<g id="g25591-3-2-3_2_" transform="matrix(0.66699577,0,0,0.71676789,178.89908,125.88495)">
+				
+					<rect id="rect7989-3-7-5-1-9-5-5-5-6_2_" x="520.371" y="241.485" transform="matrix(-2.547107e-006 -1 1 -2.547107e-006 281.1652 766.4064)" fill="#CCCCCC" width="6.829" height="2.272"/>
+				<g id="g95813-6-4-0-4_2_" transform="translate(115.96621,7.3884402)">
+					
+						<rect id="rect7991-37-8-2-6-8-4-2-8-9_2_" x="411.168" y="230.233" transform="matrix(-2.547107e-006 -1 1 -2.547107e-006 179.1808 649.6449)" fill="#808081" width="6.487" height="9.999"/>
+				</g>
+				
+					<rect id="rect7989-8-26-50-9-6-7-8-7-3-2_2_" x="533.313" y="241.485" transform="matrix(-2.547107e-006 -1 1 -2.547107e-006 294.1082 779.3494)" fill="#CCCCCC" width="6.829" height="2.272"/>
+			</g>
+		</g>
+		<text transform="matrix(0 1 -1 0 12.7661 37.775)" fill="#FFFFFF" font-family="'ErasITC-Demi'" font-size="19">Dual Digital Pot V1.0</text>
+		<g>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="36.77" y1="117.181" x2="43.626" y2="121.139"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="36.77" y1="125.099" x2="43.626" y2="121.139"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="36.77" y1="117.181" x2="40.197" y2="115.204"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="36.77" y1="125.099" x2="43.626" y2="129.057"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="36.77" y1="133.013" x2="43.626" y2="129.057"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="36.77" y1="133.013" x2="43.626" y2="136.972"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="36.77" y1="140.93" x2="43.626" y2="136.972"/>
+			<g>
+				<g>
+					
+						<line fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" x1="45.745" y1="129.057" x2="53.247" y2="129.057"/>
+					<g>
+						<polygon fill="#FFFFFF" points="43.626,129.057 46.611,130.277 45.903,129.057 46.611,127.838 						"/>
+					</g>
+				</g>
+			</g>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="40.197" y1="115.204" x2="40.197" y2="108.87"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="36.77" y1="140.93" x2="40.197" y2="142.909"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="40.197" y1="142.909" x2="40.197" y2="149.242"/>
+			
+				<circle fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="40.197" cy="108.078" r="0.792"/>
+			
+				<circle fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="40.197" cy="150.034" r="0.792"/>
+			
+				<path fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M54.04,129.846c-0.439,0-0.793-0.354-0.793-0.789c0-0.439,0.354-0.793,0.793-0.793c0.435,0,0.791,0.354,0.791,0.793
+				C54.83,129.493,54.474,129.846,54.04,129.846z"/>
+			<text transform="matrix(0 1 -1 0 57.4497 123.8746)" fill="#FFFFFF" font-family="'ArialMT'" font-size="10.8939">W</text>
+			<text transform="matrix(0 1 -1 0 36.7701 95.2926)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11.2695">A</text>
+			<text transform="matrix(0 1 -1 0 36.7701 153.6256)" fill="#FFFFFF" font-family="'ArialMT'" font-size="10.8941">B</text>
+		</g>
+	</g>
+</g>
+</svg>
