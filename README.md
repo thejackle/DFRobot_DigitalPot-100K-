@@ -13,4 +13,4 @@ Written by DFRobot_Hnery, 2017. (Welcome to [DFRobot Homepage](https://www.dfrob
 
 ## History
 
-- Nov 11, 2017 - Version 1.0.0 released.
+- Nov 11, 2017 - Version 1.0 released.
